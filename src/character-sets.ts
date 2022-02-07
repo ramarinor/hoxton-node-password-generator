@@ -1,6 +1,6 @@
 // when creating these Ed cried inside a little
 
-export const lowerCaseLetters = [
+export const lowerCaseLetters: string[] = [
   "a",
   "b",
   "c",
@@ -28,7 +28,7 @@ export const lowerCaseLetters = [
   "y",
   "z"
 ];
-export const upperCaseLetters = [
+export const upperCaseLetters: string[] = [
   "A",
   "B",
   "C",
@@ -56,7 +56,7 @@ export const upperCaseLetters = [
   "Y",
   "Z"
 ];
-export const specialChars = [
+export const specialChars: string[] = [
   "!",
   "@",
   "£",
@@ -75,4 +75,4 @@ export const specialChars = [
   "?"
 ];
 
-export const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0];
+export const numbers: number[] = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0];
